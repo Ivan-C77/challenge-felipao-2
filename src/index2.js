@@ -2,7 +2,7 @@
 // Name of the Heroe/Player --
 let nickName = "Roronoa Zoro"
 
-// Balance of the Victoies and Defeats --
+// Balance of the Victories and Defeats --
 let result = balance(129, 35)
 
 function balance(victories, defeats){
