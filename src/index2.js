@@ -22,7 +22,7 @@ let rankings = [
 let ranking;
 
 for(let i = 0; i < rankings.length; i++){
-	if(result >= rankings[i].trophies[0] && result <= 		rankings[i].trophies[1]){
+	if(result >= rankings[i].trophies[0] && result <= rankings[i].trophies[1]){
     	ranking = rankings[i].ranking;
         break;
      }
